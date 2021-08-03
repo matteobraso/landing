@@ -1,0 +1,15 @@
+.btn-yours {
+    color: rgb(21, 20, 82);
+    padding: 12px 22px;
+    border-radius: 3px;
+    font-weight: bold;
+    background: #889dfa;
+    transition: background 0.4s ease;
+  }
+  
+  .btn-yours:hover {
+    opacity: 1;
+    background: #f0f0f0;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
